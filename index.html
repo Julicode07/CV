@@ -3,28 +3,36 @@
 
 <head>
   <meta charset="UTF-8" />
-  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="icon" href="/Dev_light.svg" type="image" media="(prefers-color-scheme: light)" rel="preload" />
-  <link rel="icon" href="/Dev_dark.svg" type="image" media="(prefers-color-scheme: dark)" rel="preload" />
-  <!--   <noscript>
-    <link rel="icon" href="/Dev_dark.svg" type="image" />
-  </noscript> -->
+  <title>Gestor de eventos</title>
+
+  <!-- Favicon optimizado -->
+  <link rel="icon" href="/Dev_light.svg" type="image/svg+xml">
+  <link rel="alternate icon" href="/Dev_dark.svg" media="(prefers-color-scheme: dark)">
+
+  <!-- Open Graph Meta Tags -->
   <meta property="og:description" name="description"
-    content="Sede Rionegro - Centro de la Innovacion, la Agroindustria y la Aviacion SENA" />
+    content="Sede Rionegro - Centro de la Innovación, la Agroindustria y la Aviación SENA" />
   <meta property="og:image:alt" content="Logo Gestor de eventos SENA" />
   <meta property="og:type" content="website" />
-  <!-- <meta property="og:image" content="/logo" /> -->
-  <title>Gestor de eventos</title>
+
+  <!-- Preload para fuentes e íconos -->
+  <link rel="preconnect" href="https://cdn.jsdelivr.net">
   <link rel="preload" href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" as="style"
-    onload="this.onload=null;this.rel='stylesheet'" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
-  <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+    onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" as="style"
+    onload="this.onload=null;this.rel='stylesheet'">
+  <noscript>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+  </noscript>
 </head>
 
 <body>
   <div id="root"></div>
-  <script type="module" src="/src/main.jsx"></script>
+
+  <!-- Cargar JS sin bloquear el render -->
+  <script type="module" src="/src/main.jsx" defer></script>
 </body>
 
 </html>

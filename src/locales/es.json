@@ -1,4 +1,20 @@
 {
-    "availability": "Disponible para trabajar",
-    "developerRole": "Desarrollador de Software"
+    "header": {
+        "availability": "Disponible para trabajar",
+        "developerRole": "Desarrollador de Software"
+    },
+    "col-span-1": {
+        "About Me": {
+            "title": "Sobre mi",
+            "description": "Desarrollador de Software con 3 años de experiencia en el diseño de aplicaciones web interactivas y responsivas. Especializado en React, con dominio de CSS y frameworks como Tailwind CSS y Bootstrap. Experto en control de versiones con Git y GitHub, así como en integración y despliegue continuo (CI/CD), enfocándome en aplicaciones de alto rendimiento y excelente experiencia de usuario."
+        },
+        "title-2": "Habilidades",
+        "title-3": "Educación",
+        "title-4": "Idiomas"
+    },
+    "col-span-2": {
+        "title-1": "Experiencia Laboral",
+        "title-2": "Proyectos",
+        "title-3": "Certificaciones"
+    }
 }

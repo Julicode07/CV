@@ -1,4 +1,20 @@
 {
-    "availability": "Available for work",
-    "developerRole": "Software Developer"
+    "header": {
+        "availability": "Available for work",
+        "developerRole": "Software Developer"
+    },
+    "col-span-1": {
+        "About Me": {
+            "title": "About Me",
+            "description": "Software Developer with 3 years of experience in designing interactive and responsive web applications. Specialized in React, with expertise in CSS and frameworks like Tailwind CSS and Bootstrap. Skilled in version control with Git and GitHub, as well as continuous integration and deployment (CI/CD), focusing on high-performance applications and excellent user experience."
+        },
+        "Skills": {
+            "title": "Skills"
+        }
+    },
+    "col-span-2": {
+        "title-1": "Work Experience",
+        "title-2": "Projects",
+        "title-3": "Certifications"
+    }
 }
