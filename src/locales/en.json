@@ -6,15 +6,80 @@
     "col-span-1": {
         "About Me": {
             "title": "About Me",
-            "description": "Software Developer with 3 years of experience in designing interactive and responsive web applications. Specialized in React, with expertise in CSS and frameworks like Tailwind CSS and Bootstrap. Skilled in version control with Git and GitHub, as well as continuous integration and deployment (CI/CD), focusing on high-performance applications and excellent user experience."
+            "description": "Software Developer with 3 years of experience in building interactive and responsive web applications. Specialized in React, with strong knowledge of JavaScript, TypeScript, and styling using Tailwind CSS and Bootstrap. Experienced in version control with Git and GitHub, as well as continuous integration and deployment (CI/CD) using tools like GitHub Actions, Vercel, and Netlify. Focused on developing high-performance applications, prioritizing accessibility, usability, and user experience.  🚀"
         },
         "Skills": {
-            "title": "Skills"
+            "title": "Skills",
+            "frontend": "Frontend Development",
+            "tools": "Tools and Version Control",
+            "performance": "Optimization and Performance",
+            "other": "Other Technologies"
+        },
+        "Languages": {
+            "title": "Languages",
+            "LanguagesMap": {
+                "1": {
+                    "title": "Spanish",
+                    "level": "Native",
+                    "percentage": "100%"
+                },
+                "2": {
+                    "title": "English",
+                    "level": "A2",
+                    "percentage": "40%"
+                }
+            }
         }
     },
     "col-span-2": {
-        "title-1": "Work Experience",
-        "title-2": "Projects",
-        "title-3": "Certifications"
+        "Work Experience": {
+            "title": "Work Experience",
+            "FirstJob": {
+                "title": "Junior Frontend Developer",
+                "company": "UNIFLOR SAS",
+                "period": "2025 - Present",
+                "description": {
+                    "1": "Optimizing interface design to enhance user experience.",
+                    "2": "Improving the performance of each view for smoother navigation.",
+                    "3": "Refactoring code to maintain the same functionality with a more efficient implementation.",
+                    "4": "Implementing accessibility best practices to ensure better usability.",
+                    "5": "Collaborating with the team to improve code consistency and scalability."
+                }
+            }
+        },
+        "Projects": {
+            "title": "Projects",
+            "ProjectsMap": {
+                "1": {
+                    "title": "Ofertas Marly",
+                    "technologies": "React, Tailwind CSS",
+                    "description": "Discover amazing offers in home and personal care articles. Quality products, irresistible prices, and everything you need to make your day more comfortable.",
+                    "titleLink": "View Project",
+                    "link": "https://ofertas-marly.vercel.app/"
+                },
+                "2": {
+                    "title": "SENA Event Manager",
+                    "technologies": "React, Tailwind CSS, Node.js, Express",
+                    "description": "Team project for managing events at SENA. Allows creating, managing, and tracking in real-time. Currently in the deployment phase.",
+                    "titleLink": "Coming Soon",
+                    "link": ""
+                }
+            }
+        },
+        "Studies": {
+            "title": "Educacion",
+            "StudiesMap": {
+                "1": {
+                    "title": "Técnico en Desarrollo de Software",
+                    "institution": "SENA",
+                    "period": "2022 - 2023"
+                },
+                "2": {
+                    "title": "Tecnólogo en Análisis y Desarrollo de Software",
+                    "institution": "SENA",
+                    "period": "2024 - 2025"
+                }
+            }
+        }
     }
 }

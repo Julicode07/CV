@@ -6,15 +6,80 @@
     "col-span-1": {
         "About Me": {
             "title": "Sobre mi",
-            "description": "Desarrollador de Software con 3 años de experiencia en el diseño de aplicaciones web interactivas y responsivas. Especializado en React, con dominio de CSS y frameworks como Tailwind CSS y Bootstrap. Experto en control de versiones con Git y GitHub, así como en integración y despliegue continuo (CI/CD), enfocándome en aplicaciones de alto rendimiento y excelente experiencia de usuario."
+            "description": "Desarrollador de Software con 3 años de experiencia en la creación de aplicaciones web interactivas y responsivas. Especializado en React, con sólidos conocimientos en JavaScript, TypeScript y estilización con Tailwind CSS y Bootstrap. Experto en control de versiones con Git y GitHub, así como en integración y despliegue continuo (CI/CD) mediante herramientas como GitHub Actions, Vercel y Netlify. Enfocado en el desarrollo de aplicaciones de alto rendimiento, priorizando la accesibilidad, usabilidad y experiencia de usuario. 🚀"
         },
-        "title-2": "Habilidades",
-        "title-3": "Educación",
-        "title-4": "Idiomas"
+        "Skills": {
+            "title": "Habilidades",
+            "frontend": "Desarrollo Frontend",
+            "tools": "Herramientas y Control de Versiones",
+            "performance": "Optimización y Rendimiento",
+            "other": "Otros Tecnologías"
+        },
+        "Languages": {
+            "title": "Idiomas",
+            "LanguagesMap": {
+                "1": {
+                    "title": "Español",
+                    "level": "Nativo",
+                    "percentage": "100%"
+                },
+                "2": {
+                    "title": "Inglés",
+                    "level": "A2",
+                    "percentage": "40%"
+                }
+            }
+        }
     },
     "col-span-2": {
-        "title-1": "Experiencia Laboral",
-        "title-2": "Proyectos",
-        "title-3": "Certificaciones"
+        "Work Experience": {
+            "title": "Experiencia Laboral",
+            "FirstJob": {
+                "title": "Desarrollador Frontend Junior",
+                "company": "UNIFLOR SAS",
+                "period": "2025 - Actualidad",
+                "description": {
+                    "1": "Optimizando el diseño de las interfaces para mejorar la experiencia del usuario.",
+                    "2": "Incrementando el rendimiento de cada vista para una navegación más fluida.",
+                    "3": "Refactorizando el código para mantener la misma funcionalidad con una implementación más eficiente.",
+                    "4": "Implementando prácticas de accesibilidad para garantizar una mejor usabilidad.",
+                    "5": "Colaborando con el equipo para mejorar la coherencia y escalabilidad del código."
+                }
+            }
+        },
+        "Projects": {
+            "title": "Proyectos",
+            "ProjectsMap": {
+                "1": {
+                    "title": "Ofertas Marly",
+                    "technologies": "React, Tailwind CSS",
+                    "description": "Descubre increíbles ofertas en artículos para el hogar y cuidado personal. Productos de calidad, precios irresistibles y todo lo que necesitas para hacer tu día a día más cómodo.",
+                    "titleLink": "Ver Proyecto",
+                    "link": "https://ofertas-marly.vercel.app/"
+                },
+                "2": {
+                    "title": "Gestor de Eventos SENA",
+                    "technologies": "React, Tailwind CSS, Node.js, Express",
+                    "description": "Proyecto en equipo para gestionar eventos en el SENA. Permite crear, administrar y hacer seguimiento en tiempo real. Actualmente en fase de despliegue.",
+                    "titleLink": "Próximamente",
+                    "link": ""
+                }
+            }
+        },
+        "Studies": {
+            "title": "Educación",
+            "StudiesMap": {
+                "1": {
+                    "title": "Software Development Technician",
+                    "institution": "SENA",
+                    "period": "2022 - 2023"
+                },
+                "2": {
+                    "title": "Technologist in Software Analysis and Development",
+                    "institution": "SENA",
+                    "period": "2024 - 2025"
+                }
+            }
+        }
     }
 }
