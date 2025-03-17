@@ -1,12 +1,12 @@
 export default function Skills({ children, skillName, percentage }) {
     return (
-        <div className="group flex flex-col gap-1">
+        <div className="group flex flex-col gap-0.5">
             <div className="flex justify-between mb-1">
                 <div className="flex items-center gap-2">
                     {children}
-                    <span className="text-sm font-medium">{skillName}</span>
+                    <span className="text-xs font-medium">{skillName}</span>
                 </div>
-                <span className="text-sm text-muted-foreground">{percentage}%</span>
+                <span className="text-xs text-muted-foreground">{percentage}%</span>
             </div>
             <div className="h-2 w-full bg-slate-100 rounded-full overflow-hidden">
                 <div

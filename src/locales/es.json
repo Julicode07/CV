@@ -21,12 +21,12 @@
                 "1": {
                     "title": "Español",
                     "level": "Nativo",
-                    "percentage": "100%"
+                    "percentage": "w-[100%]"
                 },
                 "2": {
                     "title": "Inglés",
                     "level": "A2",
-                    "percentage": "40%"
+                    "percentage": "w-[40%]"
                 }
             }
         }
@@ -67,15 +67,15 @@
             }
         },
         "Studies": {
-            "title": "Educación",
+            "title": "Educacion",
             "StudiesMap": {
                 "1": {
-                    "title": "Software Development Technician",
+                    "title": "Técnico en Desarrollo de Software",
                     "institution": "SENA",
                     "period": "2022 - 2023"
                 },
                 "2": {
-                    "title": "Technologist in Software Analysis and Development",
+                    "title": "Tecnólogo en Análisis y Desarrollo de Software",
                     "institution": "SENA",
                     "period": "2024 - 2025"
                 }
