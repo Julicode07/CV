@@ -6,7 +6,7 @@
     "col-span-1": {
         "About Me": {
             "title": "About Me",
-            "description": "Software Developer with 3 years of experience in building interactive and responsive web applications. Specialized in React, with strong knowledge of JavaScript, TypeScript, and styling using Tailwind CSS and Bootstrap. Experienced in version control with Git and GitHub, as well as continuous integration and deployment (CI/CD) using tools like GitHub Actions, Vercel, and Netlify. Focused on developing high-performance applications, prioritizing accessibility, usability, and user experience.  🚀"
+            "description": "Software Developer with 2 years of experience in building interactive and responsive web applications. Specialized in React, with strong knowledge of JavaScript, TypeScript, and styling using Tailwind CSS and Bootstrap. Experienced in version control with Git and GitHub, as well as continuous integration and deployment (CI/CD) using tools like GitHub Actions, Vercel, and Netlify. Focused on developing high-performance applications, prioritizing accessibility, usability, and user experience.  🚀"
         },
         "Skills": {
             "title": "Skills",
@@ -77,7 +77,7 @@
                 "2": {
                     "title": "Technologist in Software Analysis and Development",
                     "institution": "SENA",
-                    "period": "2024 - 2025"
+                    "period": "2023 - 2025"
                 }
             }
         }

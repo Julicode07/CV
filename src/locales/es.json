@@ -6,7 +6,7 @@
     "col-span-1": {
         "About Me": {
             "title": "Sobre mi",
-            "description": "Desarrollador de Software con 3 años de experiencia en la creación de aplicaciones web interactivas y responsivas. Especializado en React, con sólidos conocimientos en JavaScript, TypeScript y estilización con Tailwind CSS y Bootstrap. Experto en control de versiones con Git y GitHub, así como en integración y despliegue continuo (CI/CD) mediante herramientas como GitHub Actions, Vercel y Netlify. Enfocado en el desarrollo de aplicaciones de alto rendimiento, priorizando la accesibilidad, usabilidad y experiencia de usuario. 🚀"
+            "description": "Desarrollador de Software con 2 años de experiencia en la creación de aplicaciones web interactivas y responsivas. Especializado en React, con sólidos conocimientos en JavaScript, TypeScript y estilización con Tailwind CSS y Bootstrap. Experto en control de versiones con Git y GitHub, así como en integración y despliegue continuo (CI/CD) mediante herramientas como GitHub Actions, Vercel y Netlify. Enfocado en el desarrollo de aplicaciones de alto rendimiento, priorizando la accesibilidad, usabilidad y experiencia de usuario. 🚀"
         },
         "Skills": {
             "title": "Habilidades",
@@ -77,7 +77,7 @@
                 "2": {
                     "title": "Tecnólogo en Análisis y Desarrollo de Software",
                     "institution": "SENA",
-                    "period": "2024 - 2025"
+                    "period": "2023 - 2025"
                 }
             }
         }
